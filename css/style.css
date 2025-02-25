@@ -3,3 +3,56 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+header{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(255, 102, 0);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+img.logo{
+    height: 20px;
+    width: 90px;
+    margin-left: 130px;
+}
+
+.padding-top{
+    padding-top: 15px;
+}
+
+.padding-right{
+    padding-right: 5px;
+}
+
+.text-white{
+    color: white;
+}
+
+.text-header{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.square{
+    width: 25%;
+    height: 40px;
+}
+
+.square-big{
+    width: 30%;
+    height: 40px;
+}
+
+.shop{
+    text-align: right;
+}
